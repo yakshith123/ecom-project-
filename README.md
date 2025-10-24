@@ -17,7 +17,7 @@ A full-stack e-commerce application built with React, Redux, TypeScript, Node.js
 
 ## 🚀 Live Demo
 
-**Frontend:** [https://shophub.vercel.app](https://shophub.vercel.app)  
+**Frontend:** https://ecom-project-6jdjpy27w-yakshith-s-ys-projects.vercel.app/  
 **Backend API:** [https://shophub-api.vercel.app](https://shophub-api.vercel.app)
 
 
