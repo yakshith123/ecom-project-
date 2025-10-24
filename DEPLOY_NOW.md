@@ -7,7 +7,7 @@
 ## Step 1: Create GitHub Repository (2 minutes)
 
 1. **Go to:** https://github.com/new
-2. **Repository name:** `shophub-ecommerce`
+Repository name:** `ecom-project-`
 3. **Make it Public**
 4. **Don't initialize** with README (we already have one)
 5. **Click:** Create repository
@@ -15,7 +15,7 @@
 6. **Push your code:**
 ```bash
 cd /Users/yakshith/Desktop/new\ pro
-git remote add origin https://github.com/YOUR-USERNAME/shophub-ecommerce.git
+git remote add origin https://github.com/yakshith123/ecom-project-.git
 git branch -M main
 git push -u origin main
 ```
@@ -29,7 +29,7 @@ git push -u origin main
 1. **Go to:** https://console.neon.tech/signup
 2. **Sign up** with GitHub (1-click)
 3. **Create Project:**
-   - Name: `shophub-db`
+Name: `ecom-db`
    - Click "Create Project"
 4. **Get Connection String:**
    - Click "Connection Details"
@@ -55,9 +55,9 @@ git push -u origin main
 1. **Go to:** https://dashboard.render.com/register
 2. **Sign up** with GitHub
 3. **Click:** "New +" → "Web Service"
-4. **Connect** your GitHub repo: `shophub-ecommerce`
+4. **Connect** your GitHub repo: `ecom-project-`
 5. **Configure:**
-   - **Name:** `shophub-api`
+**Name:** `ecom-api`
    - **Root Directory:** `backend`
    - **Environment:** `Node`
    - **Build Command:** `npm install && npm run build`
@@ -80,7 +80,7 @@ git push -u origin main
 
 9. **Copy your backend URL:**
    ```
-   https://shophub-api.onrender.com
+   https://ecom-api.onrender.com
    ```
 
 ✅ **Backend Deployed!**
@@ -94,7 +94,7 @@ git push -u origin main
 1. **Go to:** https://vercel.com/signup
 2. **Sign up** with GitHub
 3. **Click:** "Add New..." → "Project"
-4. **Import** your GitHub repo: `shophub-ecommerce`
+4. **Import** your GitHub repo: `ecom-project-`
 5. **Configure:**
    - **Framework Preset:** Vite
    - **Root Directory:** `frontend`
@@ -104,7 +104,7 @@ git push -u origin main
 6. **Add Environment Variable:**
    Click "Environment Variables":
    ```
-   VITE_API_URL = https://shophub-api.onrender.com
+VITE_API_URL = https://ecom-api.onrender.com
    ```
    (Use YOUR backend URL from Step 3)
 
@@ -114,7 +114,7 @@ git push -u origin main
 
 9. **🎉 GET YOUR LINK!**
    ```
-   https://shophub-ecommerce.vercel.app
+   https://ecom-project-.vercel.app
    ```
 
 ✅ **Frontend Deployed!**
@@ -124,11 +124,11 @@ git push -u origin main
 ## Step 5: Update Backend CORS (1 minute)
 
 1. **Go back to Render dashboard**
-2. **Click** your `shophub-api` service
+2. **Click** your `ecom-api` service
 3. **Environment** tab
 4. **Add Variable:**
    ```
-   FRONTEND_URL = https://shophub-ecommerce.vercel.app
+FRONTEND_URL = https://ecom-project-.vercel.app
    ```
    (Use YOUR frontend URL from Step 4)
 
@@ -144,8 +144,8 @@ git push -u origin main
 ### **Share This Link:**
 
 ```
-🛒 ShopHub - My E-Commerce Store
-https://shophub-ecommerce.vercel.app
+🛒 Ecom Project - My E-Commerce Store
+https://ecom-project-.vercel.app
 
 ✅ 50+ Products
 ✅ Shopping Cart
@@ -159,7 +159,7 @@ Try it now! 🚀
 ```
 Hey! Check out my new e-commerce store I built! 🛍️
 
-Link: https://shophub-ecommerce.vercel.app
+Link: https://ecom-project-.vercel.app
 
 Features:
 ✨ Browse 50+ products
