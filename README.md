@@ -26,6 +26,8 @@ A full-stack e-commerce application built with React, Redux, TypeScript, Node.js
 <img width="602" height="790" alt="Screenshot 2025-10-24 at 2 30 00 PM" src="https://github.com/user-attachments/assets/4055f1f3-0c1e-4db0-9d53-7769bdaf7425" />
 <img width="602" height="790" alt="Screenshot 2025-10-24 at 2 30 09 PM" src="https://github.com/user-attachments/assets/29675cef-c9c1-4336-af88-96c1007a3a59" />
 <img width="1440" height="900" alt="Screenshot 2025-10-24 at 2 49 55 PM" src="https://github.com/user-attachments/assets/a426e831-d67e-4a6b-a14d-1e12595be0ee" />
+![Uploading Screenshot 2025-10-24 at 2.49.45 PM.png…]()
+
 
 
 
