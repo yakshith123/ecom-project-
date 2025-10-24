@@ -20,11 +20,7 @@ A full-stack e-commerce application built with React, Redux, TypeScript, Node.js
 **Frontend:** [https://shophub.vercel.app](https://shophub.vercel.app)  
 **Backend API:** [https://shophub-api.vercel.app](https://shophub-api.vercel.app)
 
-## 📸 Screenshots
 
-[Add screenshots here after deployment]
-
-## 🛠️ Tech Stack
 
 ### Frontend
 - React 18.2
@@ -100,10 +96,6 @@ npm run dev
 6. **Open browser**
 - Frontend: http://localhost:5173
 - Backend: http://localhost:4000
-
-## 📦 Deployment
-
-See [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md) for detailed deployment instructions.
 
 ### Quick Deploy to Vercel
 
